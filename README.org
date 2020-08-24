@@ -1,0 +1,11 @@
+* Migration scripts
+
+- [2020-08-24 Mon]:
+  + *01__init.sql*
+    - create *uuid* extension
+    - create *user* table
+
+
+
+* Notes
+to be written
